@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Import the main application
 from app import application
 
