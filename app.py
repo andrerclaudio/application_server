@@ -10,7 +10,7 @@ from pytictoc import TicToc
 
 # Project modules
 
-HOST = '192.168.0.183'  # Standard loopback interface address (localhost)
+HOST = 'https://echo-tcp.herokuapp.com/'  # Host
 PORT = 65432  # Port to listen on (non-privileged ports are > 1023)
 
 # Print in file
